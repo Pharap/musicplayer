@@ -5,7 +5,7 @@
 #include "SoundData.h"
 #include "SoundPlayer.h"
 
-constexpr std::uint32_t SampleRate8272Hz = 802;
+constexpr std::uint16_t SampleRate8272Hz = 802;
 
 const Sound sounds[]
 {
